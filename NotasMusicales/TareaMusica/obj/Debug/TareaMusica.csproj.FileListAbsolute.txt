@@ -1,0 +1,10 @@
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\bin\Debug\TareaMusica.exe.config
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\bin\Debug\TareaMusica.exe
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\bin\Debug\TareaMusica.pdb
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.csprojAssemblyReference.cache
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.Form1.resources
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.Properties.Resources.resources
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.csproj.GenerateResource.cache
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.csproj.CoreCompileInputs.cache
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.exe
+C:\Users\tonyc\source\repos\TareaMusica\TareaMusica\obj\Debug\TareaMusica.pdb
